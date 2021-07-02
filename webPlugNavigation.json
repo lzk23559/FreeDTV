@@ -130,7 +130,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.9ehao.com/vod/search.html?wd={kw}&submit=",
-        "nav_url": "https://www.9ehao.com/vodshow/navCate/page/navPage",
+        "nav_url": "https://www.9ehao.com/vodshow/navCate/page/navPage.html",
         "cate_url": "https://9ehao.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
         "web_name": "9亿看看",
         "kw": "wd",
@@ -142,18 +142,16 @@
         ],
         "navHtml": {
           "name": [
-            "国语配音",
-            "热播电影",
-            "热播电视",
-            "热播美剧",
-            "国配外剧"
+            "电影",
+            "连续剧",
+            "综艺",
+            "动漫"
           ],
           "cate": [
-            "gypy",
-            "zuijinrebodianying",
-            "zuijinrebodianshiju",
-            "rebomeiju",
-            "guoyupeiyinhanju"
+            "dianying",
+            "lianxuju",
+            "zongyi",
+            "dongman"
           ],
           "page": "1"
         },
@@ -170,7 +168,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.tab-pane.fade.in.clearfix",
+            "mainCss": "div.tab-content.myui-panel_bd",
             "mainIndex": 0,
             "regIndexList": [
               0
